@@ -1,0 +1,47 @@
+//let age = 30;
+//let user = "Artem";
+//let message = 'Hello';
+//console.log(age);
+//console.log(user);
+//console.log(message);
+//let str = "׀ׁ€׀¸׀²׀µׁ‚";
+//let str1 = "Hello";
+//let str2 = `Hi - $ {1+2}`;
+//console.log(str1);
+//console.log(str2); 
+//let x = 2,
+//  y = 3;
+//console.log(y - x);
+//console.log(5 % 2);
+//console.log(2 ** 3);
+//let a = 1,
+//  b = 2;
+//let c = 2 - (a = b + 1);
+//console.log(a);
+//console.log(c);
+//let a, b, c;
+//c = 2 + 2;
+//b = c;
+//a = b;
+//let n = 2;
+//n += 5;
+//n = n + 5
+//console.log(n);
+//n *= 2;
+//n = n * 2;
+//console.log(n);
+//let a = 3;
+//a *= 3 + 5;
+//console.log(a);
+//let counter = 2;
+//counter++;
+//console.log(counter);
+//let counter = 2;
+//counter--;
+//console.log(counter);
+//let counter = 2;
+//let a = counter++;
+//console.log(a);
+//let x;
+//true || (x + 1);
+//console.log(x);
